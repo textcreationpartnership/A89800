@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration to all His Majesties loving subjects within the Kingdome of England and dominion of Wales; concerning a King and his representative councell, touching the government of his people, according to the known laws of the realme. With the opinion and proceedings of seven ambassadours concerning the governement of the common-wealth.</title>
+            <author>G. N.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89800</idno>
+            <idno type="STC">Wing N17</idno>
+            <idno type="STC">Thomason E429_13</idno>
+            <idno type="STC">ESTC R204627</idno>
+            <idno type="EEBO-CITATION">99864091</idno>
+            <idno type="PROQUEST">99864091</idno>
+            <idno type="VID">161489</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89800)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161489)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 67:E429[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration to all His Majesties loving subjects within the Kingdome of England and dominion of Wales; concerning a King and his representative councell, touching the government of his people, according to the known laws of the realme. With the opinion and proceedings of seven ambassadours concerning the governement of the common-wealth.</title>
+                  <author>G. N.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Tho: Broad ;</publisher>
+                  <pubPlace>Imprinted at York :</pubPlace>
+                  <pubPlace>And reprinted at London,</pubPlace>
+                  <date>MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: G.N.</note>
+                  <note>Annotation on Thomason copy: "Feb: 29", "1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kings and rulers --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161489:1" rendition="simple:additions"/>
+            <p>A DECLARATION TO All His Majeſties loving Subjects within the Kingdome of <hi>England</hi> and Dominion of <hi>Wales;</hi> Concerning a KING and His Repreſentative Councell, touching the Government of His People, according to the known Laws of the Realme. With the opinion and proceedings of ſeven Ambaſſadours concerning the Go<g ref="char:EOLhyphen"/>vernment of the <hi>Common-wealth.</hi>
+            </p>
+            <figure>
+               <figDesc>blazon or coat of arms of the British royal family</figDesc>
+               <head>
+                  <q>HONI SOIT QVI MAY Y PENSE</q>
+               </head>
+               <p>C R</p>
+            </figure>
+            <p>Imprinted at <hi>York</hi> by THO: BROAD. And Reprinted at <hi>London,</hi> MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161489:2"/>
+            <pb n="1" facs="tcp:161489:2"/>
+            <head>A DECLARATION FROM Divers Well-affected Subjects within the City of LONDON TO The Free-born People of <hi>England;</hi> Concerning the Kings Majeſty, and his Great and Repreſentative Councell of this Kingdome.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas in naturall things, the Head being cut off, the reſt cannot be called a Body; no more can in politique things, a Multitude or Com<g ref="char:EOLhyphen"/>munality without a Head, be incorporate: Therefore if a People deſiring to live in So<g ref="char:EOLhyphen"/>ciety, and willing to erect either a politique Body or a King<g ref="char:EOLhyphen"/>dom, muſt of neceſſity chuſe one to govern that Body, who
+<pb n="2" facs="tcp:161489:3"/> in a Kingdom of <hi>Regendo,</hi> is called <hi>Rex,</hi> and ſo by the peo<g ref="char:EOLhyphen"/>ple is eſtabliſhed a Kingdome: which Government is abſo<g ref="char:EOLhyphen"/>lutely the beſt.</p>
+            <p>And as the Head of the Phyſical body cannot change the reyns and the ſinews thereof, nor deny the members of their proper ſtrength and neceſſary nutriture: no more can a King who is Head of the politick Body, alter or change the Laws of that Body, or take from the people their goods or ſubſtance againſt their wils; for a King is choſen &amp; bound to maintain the Laws of His Subjects, and to defend their bodies and goods; So <hi>Brute</hi> arriving in this Iſland with his Trojans, elected here a gallant and politick Government, which hath for the moſt part continued ever ſince: For, though wee have had many changes, within this his Maje<g ref="char:EOLhyphen"/>ſties Realm of <hi>England,</hi> as firſt the Romans, then the Saxons, then the Danes; and laſtly, the Normans, yet in the time of all theſe Nations and during their Ra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gns, the Kingdom was for the moſt part governed in the ſame manner as now it is, <hi>Plutarch</hi> ſaith, <hi>that all at first that governed were called Ty<g ref="char:EOLhyphen"/>rants, but afterwards the good Governours called Kings.</hi>
+            </p>
+            <p>For though a man by force do ſubdue Cities and Coun<g ref="char:EOLhyphen"/>tries, yet he ought to rule according to reaſon; and if hee know God, according to the Law of God: but when he is admitted King by the people, and hath his power from them He may not ſubject the people to any other power, and therefore ought not (as a party hath formerly alleadged) to uſe his great and prerogative at his Majeſties owne will and pleaſure.</p>
+            <p>And here I think it not amiſſe to ſet down ſome few laws and Cuſtomes of other Common-wealths, whereby their good Government may appeare, they not being Chriſtians, <hi>Ptolomeus</hi> King of Egypt feaſted one day ſeven Ambaſſa<g ref="char:EOLhyphen"/>dours, which at his requeſt ſhewed unto him three of their
+<pb n="3" facs="tcp:161489:3"/> principal Laws and Cuſtomes, expreſſing themſelves in this manner, <hi>viz.</hi>
+            </p>
+            <p>The Ambaſſadour of <hi>Rome's</hi> Speech to <hi>Ptolomeus</hi> King of Egyyt, in theſe words, <hi>We have the Temples in great reve<g ref="char:EOLhyphen"/>rence, we are very obedient to our Governours, and we do puniſh wicked men ſeverely.</hi>
+            </p>
+            <p>2. The <hi>Carthagenian</hi> Ambaſſadour his Speech, <hi>viz. Our Noble men nover left fighting, the Artificers never left labou<g ref="char:EOLhyphen"/>ring, &amp;c.</hi>
+            </p>
+            <p>The <hi>Cicilian</hi> Ambaſſador's Speech, <hi>In our Common<g ref="char:EOLhyphen"/>wealth justice is exactly kept, and Marchandize is exercized <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith truth.</hi>
+            </p>
+            <p>The Rodian Ambaſſador ſaid, <hi>That at Rodes old men were honest, young men ſhame fac't, and women uſe very few words.</hi>
+            </p>
+            <p>The Athenians ſaid, <hi>In our Common-wealth rich men are not ſuffered to be divided into factions, nor poor men to be idle, nor the Governours to be ignorant.</hi>
+            </p>
+            <p>The Lacedemonians ſaid, <hi>In</hi> Sparta <hi>envy reigneth not, for all men are equall, nor covetouſneſſe, for all goods are com<g ref="char:EOLhyphen"/>mon, nor ſloth, for all men labour.</hi>
+            </p>
+            <p>The <hi>Siconian</hi> Ambaſſador ſaid, <hi>In our Common-wealth voyages are not permitted, becauſe they ſhould not bring home new factions, Phyſitians are not ſuffered least they ſhould kill the ſound, nor Lawyers to take upon them the defence of cauſes and ſuits, &amp;c.</hi>
+            </p>
+            <p>The Kings of <hi>England</hi> ought to be juſt in their ſentence according to the words of <hi>Solomon,</hi> Wiſd. 1. ſaying, <hi>Love ju<g ref="char:EOLhyphen"/>ſtice you that judge the Earth,</hi> for a juſt King doth advance his Countrey, and the King that judgeth the poor rightly, his throne ſhall be exalted.</p>
+            <p>Now to ſhew what manner of man is fitteſt to go<g ref="char:EOLhyphen"/>vern, I read in <hi>Livie,</hi> that men borne in armes, great in deeds, and ready in eloquence, ought to be choſen Coun<g ref="char:EOLhyphen"/>cellours, and that men of quicke ſpirits, ſharpe wits, learn'd
+<pb n="4" facs="tcp:161489:4"/> in the Law, and eloquence, ſhould be for the City, for a Prince ought to be a Martiall man, ſtout and couragious to defend his Subjects, and offend his enemies, not to be curious to ſpeak eloquently, but to deliver his mind plainly, and wiſely, it being more neceſſary for a Prince to do well, then to ſpeak wel. <hi>Poucinus</hi> ſaith, <hi>thoſe are to be hated, who in their acts are fools, and in their words phyloſophers;</hi> for wiſe words are not commendable, if the deeds be not anſwerable; they therefore, ſaith <hi>Plato, that will have glory in this life, and at<g ref="char:EOLhyphen"/>tain to glory after death, and be beloved of many, and feared of all, let him be vertuous in good works, and deceive no man, with vain words.</hi>
+            </p>
+            <p>All good and worthy Princes have laboured to attaine to this wiſdome, and to exact Jvſtice moſt exactly; inſomuch, that ſome have not ſpared their owne children, ſo ſacred a thing they euer held juſtice to be; as for example. King <hi>Ed<g ref="char:EOLhyphen"/>gar</hi> of <hi>England,</hi> had diligent care to do juſtice, as in Winter time he would ride up and down the Country, and make en<g ref="char:EOLhyphen"/>quiry of his Officers and Governours, and puniſhed them ſeverely that offended the Law.</p>
+            <p>And as the followers of Juſtice ſhall not only be glorious on earth, but live in eternal glory; ſo the Princes that mini<g ref="char:EOLhyphen"/>ſter injuſtice, and do not judge rightly ſhall reap infamyon earth, and undergo the high diſpleaſure of God; for the roy<g ref="char:EOLhyphen"/>all Prophet ſaith, <hi>that God is terrible to the Kings of the earth,</hi> Pſal. 75.</p>
+            <p>
+               <hi>Seldred</hi> a Saxon King of <hi>England,</hi> not executing Juſtice, was killed by the <hi>Divell, as he was banquetting with his No<g ref="char:EOLhyphen"/>bility.</hi>
+            </p>
+            <p>Divers other Kings for their injuſtice have loſt their King<g ref="char:EOLhyphen"/>doms, being tran ferred from Nation to Nation for injuſtice and injur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es; therefore it behoveth a Prince to take ſpecial care hereunto.</p>
+            <pb n="5" facs="tcp:161489:4"/>
+            <p>And it is requiſite, that a Prince be true of His word, both towards God and Man, for <hi>Soloman</hi> ſaith, <hi>that a lying lip doth not become a Prince,</hi> Prov. 17.</p>
+            <p>Many examples might be given touching ſeveral Princes who have been puniſhed for breach of Faith, as for exam<g ref="char:EOLhyphen"/>ple.</p>
+            <p>
+               <hi>Charles</hi> the 70. King of <hi>France,</hi> when Hee was Dolphin, made <hi>Iohn</hi> Duke of <hi>Burgundy</hi> believe that He would make peace with Him, whereupon they met at a place appointed where <hi>Charles</hi> cauſed the Duke to be killed; but <hi>Charlos</hi> af<g ref="char:EOLhyphen"/>ter this, was forced to aske <hi>Philip</hi> forgiveneſſe openly by his Embaſſadors.</p>
+            <p>
+               <hi>Charles</hi> the laſt Duke of <hi>Burgundy</hi> having given ſafe con<g ref="char:EOLhyphen"/>duct to the Earle of St. <hi>Paul</hi> Conſtable of <hi>France</hi> took<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him priſoner, and delivered him to the French King, who put him to death for his treachery, and ſet the ſaid Earl free.</p>
+            <p>Thus you may ſee how honourable it is for a King to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eep His word and promiſe with His Subjects, and what they de<g ref="char:EOLhyphen"/>ſerve that falſifie their faith; for, a faithleſs Prince is belo<g ref="char:EOLhyphen"/>ued of none, but hated of <hi>all.</hi> Therefore, a Prince ought to be very carefull in making choice of His Councellors; for <hi>Pla<g ref="char:EOLhyphen"/>to</hi> ſaith, <hi>that many Princes are vndone for want of faithfull frionds and ſervants to councell them; therefore, Alfrea King of England ſought out the wiſest and most learnedſt men to be of his Councell.</hi>
+            </p>
+            <p>The Emperour <hi>Conſtantius</hi> to make proof of his friends, made ſhew to abandon Chriſtian Religion, and to turne to Idolatry, He was inſtantly applauded by a great number, whom preſently he baniſhed the Country, for a Prince ſhal never want followero, I wiſh that our gracious Soveraigne would make this preſident, but to my former diſcourſe. Councellours, ſaith <hi>Julius Caeſar,</hi> in one of his Orations to the Senate, <hi>ſhould not be lead by malice, friendſhip, anger nor mer<g ref="char:EOLhyphen"/>cie,</hi>
+               <pb n="6" facs="tcp:161489:5"/> 
+               <hi>and if they concur in one lawfull opinion, though the Prince be oppoſite; yet it is fitteſt he ſhould yeeld to them,</hi> for ſo did the Emperour <hi>Mercus Antonius,</hi> ſaying, <hi>It muſt be as you will, for it is greater reaſon, I being one, ſhould follow your opinion, then you being many, wiſe, and learned, ſhould yeeld to mine.</hi>
+            </p>
+            <p>For if a Prince take ayd of a ſtranger ſtronger then him<g ref="char:EOLhyphen"/>ſelf, he may thereby endanger his State, as for example, <hi>Heruls, Goths,</hi> and <hi>Lumberds</hi> came into Italy for ſuccour, but at the laſt became Lords thereof, ſo did they of <hi>Franconia</hi> with their King, and <hi>France</hi> and the <hi>Saxons</hi> did the like to <hi>England.</hi>
+            </p>
+            <p>Therefore it is expedient, that a Prince be both vigilant and careful in preſervation of his Crown and Kingdoms, and not to require any ayd or aſſiſtance from forraign Nations, but endeavour to preſerve the liberty and freedome of his Subjects, and that he be careful of ſhedding innocent bloud either by tyranny, malice, ambition, policy, or falſe reports and informations, for to be a tyrant is odious to God and Man, and in great hazard and danger of bringing himſelfe to an evill end.</p>
+            <closer>
+               <signed>SUBSCRIBED, G. N.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
